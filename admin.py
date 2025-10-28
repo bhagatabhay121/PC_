@@ -1340,4 +1340,5 @@ class SecurityRadarAdminApp(MDApp):
 
 
 if __name__ == '__main__':
+
     SecurityRadarAdminApp().run()
